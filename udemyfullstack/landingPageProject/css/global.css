@@ -1,19 +1,19 @@
 /* Text */
 
-.text-center {
+.text-center{
     text-align: center;
 }
 
-.heading-small {
+.heading-small{
     font-size: 1.25rem;
 }
 
-.heading-medium {
+.heading-medium{
     font-size: 1.5rem;
 }
 
-.heading-big {
-    font-size: 1.75 rem;
+.heading-big{
+    font-size: 1.75rem;
 
 }
 
@@ -25,6 +25,23 @@
 
 .bg-light-blue {
     background: #337ea2;
+}
+
+/* Buttons */
+.btn{
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 7px;
+    letter-spacing: 0.5px;
+}
+
+.btn-primary{
+    background: #337ea2;
+}
+.btn-primary:hover{
+    color:#336ea2;
+    background: #ffffff;
+    border: 0.5px solid #336ea2;
 }
 
 /* Contaner */

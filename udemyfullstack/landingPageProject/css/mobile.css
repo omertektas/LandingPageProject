@@ -5,3 +5,20 @@
     overflow: hidden;
     height: 90px;
 }
+
+#home img{
+    max-width: 70%;
+}
+
+#training .items{
+    flex-direction: column;
+    
+}
+#training .items .item{
+    width: 100%;
+    
+}
+
+.courses .course{
+    flex-direction: column;
+}
